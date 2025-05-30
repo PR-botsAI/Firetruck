@@ -1,0 +1,92 @@
+{
+  "current": {
+    "color_schemes": {
+      "background-1": {
+        "settings": {
+          "background": "#FFFFFF",
+          "background_2": "#F3F3F3", 
+          "text": "#121212",
+          "accent_1": "#1a1a1a",
+          "accent_2": "#ffffff",
+          "outline_button_label": "#121212",
+          "outline_button_border": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "background-2": {
+        "settings": {
+          "background": "#F3F3F3",
+          "background_2": "#FFFFFF",
+          "text": "#121212", 
+          "accent_1": "#1a1a1a",
+          "accent_2": "#ffffff",
+          "outline_button_label": "#121212",
+          "outline_button_border": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "inverse": {
+        "settings": {
+          "background": "#242833",
+          "background_2": "#000000",
+          "text": "#FFFFFF",
+          "accent_1": "#ffffff",
+          "accent_2": "#1a1a1a",
+          "outline_button_label": "#FFFFFF",
+          "outline_button_border": "#FFFFFF", 
+          "shadow": "#000000"
+        }
+      },
+      "accent-1": {
+        "settings": {
+          "background": "#1a1a1a",
+          "background_2": "#ffffff",
+          "text": "#FFFFFF",
+          "accent_1": "#FFFFFF",
+          "accent_2": "#000000",
+          "outline_button_label": "#FFFFFF",
+          "outline_button_border": "#FFFFFF",
+          "shadow": "#000000"
+        }
+      },
+      "accent-2": {
+        "settings": {
+          "background": "#ffffff",
+          "background_2": "#1a1a1a",
+          "text": "#FFFFFF",
+          "accent_1": "#FFFFFF", 
+          "accent_2": "#000000",
+          "outline_button_label": "#FFFFFF",
+          "outline_button_border": "#FFFFFF",
+          "shadow": "#000000"
+        }
+      }
+    },
+    "type_header_font": "assistant_n4",
+    "heading_scale": 100,
+    "type_body_font": "assistant_n4", 
+    "body_scale": 100,
+    "page_width": 1200,
+    "spacing_sections": 0,
+    "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 0,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 4,
+    "buttons_shadow_blur_radius": 5,
+    "card_style": "standard",
+    "card_color_scheme": "background-2",
+    "card_border_thickness": 0,
+    "card_border_opacity": 10,
+    "card_corner_radius": 0,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 4,
+    "card_shadow_blur_radius": 5,
+    "badge_position": "bottom left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse"
+  }
+}
